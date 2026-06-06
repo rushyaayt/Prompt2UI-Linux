@@ -76,4 +76,3 @@ Prompt2UI-Linux/
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to expand this into supporting web or multi-window structures.
 ## 📜 License
 Distributed under the MIT License. See LICENSE for more information.
-###### Sorry i forgot to add mit license section😬
